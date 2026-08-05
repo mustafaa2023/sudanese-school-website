@@ -4,7 +4,7 @@ import path from 'path';
 
 export default defineConfig(() => {
   return {
-    base: '/sudanese-school-website/',
+    base: '/',
     plugins: [react()],
     resolve: {
       alias: {
