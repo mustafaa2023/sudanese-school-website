@@ -71,8 +71,8 @@ export const DEPARTMENTS: Department[] = [
     curriculumAr: 'البرنامج الإنجليزي المتوافق مع المنهج البريطاني',
     focus: 'Comprehensive English language acquisition across all grades: reading, writing, speaking, and listening — aligned with international Cambridge standards.',
     focusAr: 'اكتساب شامل للغة الإنجليزية عبر جميع المراحل: قراءة وكتابة ومحادثة واستماع — متوافق مع معايير كامبريدج الدولية.',
-    subjects: ['English', 'Social studies', 'ICT', 'Islamic studies', 'Arabic', 'Physics and Chemistry'],
-    subjectsAr: ['علوم اجتماعية', 'علوم حاسوب', 'إنجليزي منهج كامبرج', 'اللغة العربية', 'الكيمياء و الفيزياء', 'دراسات اسلامية'],
+    subjects: ['English', 'Social studies', 'ICT', 'Islamic studies', 'Arabic', 'Physics and Chemistry', 'Mathematics ', ' Environmental management'],
+    subjectsAr: [رياضيات','تربية بيئية'','علوم اجتماعية', 'علوم حاسوب', 'إنجليزي منهج كامبرج', 'اللغة العربية', 'الكيمياء و الفيزياء', 'دراسات اسلامية'],
   }
 ];
 
