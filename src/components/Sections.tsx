@@ -159,12 +159,12 @@ export function PhilosophySection() {
       details: isRtl ? [
         'بيئة حاضنة تحتفي بالهوية والتراث السوداني العريق وتعزز الروابط الاجتماعية بالإسكندرية.',
         'مجلس تعاون فاعل يجمع المدرسة وأولياء الأمور مع قنوات استشارية مفتوحة.',
-        'مبادرات طلابية نشطة، مسرح مدرسي ثقافي، وندوات إلقاء الشعر.',
+        'مبادرات طلابية نشطة، عروض تقديمية، وندوات مع منظمات خارجية.',
         'شبكات مراجعة ودعم بين الأقران وبرامج رعاية نفسية واجتماعية.',
       ] : [
         'An inclusive environment celebrating Sudanese identity and cultural connections in Al-Ajami.',
         'Active Parent & School Alliance with open-door consultation and collaborative event committees.',
-        'Social student initiatives, cultural theater, poetry recitals, and regional traditional cuisine festivals.',
+        'Social student initiatives, presentations and shows, and many collaborations with outer organizations.',
         'Peer tutoring networks and psychological support counseling to make sure no child feels left behind.',
       ],
     },
