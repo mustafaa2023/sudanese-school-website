@@ -628,7 +628,7 @@ export function ContactSection() {
             <h4 className="contact-card__title">{t('contact.locationTitle')}</h4>
             <p className="contact-card__body">{t('contact.locationDesc')}</p>
             <a
-              href="https://maps.app.goo.gl/Dx7WuZBy2ssBppet8"
+              href="https://maps.app.goo.gl/4AmGXE1vkWxx9RVZ8?g_st=ac"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn--outline btn--sm map-card-btn"
@@ -668,7 +668,7 @@ export function ContactSection() {
               </p>
             </div>
             <a
-              href="https://maps.app.goo.gl/Dx7WuZBy2ssBppet8"
+              href="https://maps.app.goo.gl/4AmGXE1vkWxx9RVZ8?g_st=ac"
               target="_blank"
               rel="noopener noreferrer"
               className="btn btn--primary btn--sm contact-map-direct-btn"
@@ -680,7 +680,7 @@ export function ContactSection() {
           <div className="contact-map-iframe-box">
             <iframe
               title="Sudanese Community School Google Map"
-              src="https://maps.google.com/maps?q=Sudanese%20Community%20School%20Alexandria%20October%20Elnakil%20st%2025/6&t=&z=15&ie=UTF8&iwloc=&output=embed"
+              src="https://maps.app.goo.gl/4AmGXE1vkWxx9RVZ8?g_st=ac put=embed"
               width="100%"
               height="380"
               style={{ border: 0 }}
