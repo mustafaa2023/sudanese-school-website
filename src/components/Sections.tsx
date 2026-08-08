@@ -138,12 +138,12 @@ export function PhilosophySection() {
       details: isRtl ? [
         'تركيز كامل داخل الفصول الدراسية وسياسات حضور وانضباط صارمة.',
         'بناء السلوك والأخلاق الراسخة المستمدة من قيم مجتمعنا الأصيلة.',
-        'برنامج دراسي ثنائي اللغة صارم يغطي العلوم التجريبية، النحو العربي، والتأهيل للـ IELTS.',
+        'برنامج دراسي ثنائي اللغة صارم يغطي العلوم التجريبية، النحو العربي و اللغة الانجليزية المتقدمة.',
         'تنمية مهارات المبادرة الشخصية، الرقابة الذاتية، والانضباط الواعي.',
       ] : [
         'Structured classroom focus and strict attendance policies ensuring zero learning interruptions.',
         'Moral grounding rooted in classical community virtues, respect for elders, and peer support.',
-        'Bilingual academic rigor covering analytical sciences, classical Arabic syntax, and IELTS preparation.',
+        'Bilingual academic rigor covering analytical sciences, classical Arabic syntax, Advanced English.',
         'Development of personal responsibility, self-monitoring, and active study hygiene.',
       ],
     },
