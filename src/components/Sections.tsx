@@ -680,7 +680,7 @@ export function ContactSection() {
           <div className="contact-map-iframe-box">
             <iframe
               title="Sudanese Community School Google Map"
-              src="https://share.google/jkdWQCWOFU36mqViF"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3416.672641446972!2d29.726541975341462!3d31.091031674413447!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14f5952d1a4c54c9%3A0xad97ac6ea85a1ea2!2z2LHZitin2LYg2Ygg2YXYr9in2LHYsyDYp9mE2KzYp9mE2YrYqSDYp9mE2LPZiNiv2KfZhtmK2Kkg2KjYp9mE2LnYrNmF2Yo!5e0!3m2!1sen!2seg!4v1786262075066!5m2!1sen!2seg"
               width="100%"
               height="380"
               style={{ border: 0 }}
