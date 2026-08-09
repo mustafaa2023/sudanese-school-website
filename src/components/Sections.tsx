@@ -680,7 +680,7 @@ export function ContactSection() {
           <div className="contact-map-iframe-box">
             <iframe
               title="Sudanese Community School Google Map"
-              src="https://www.google.com/maps/place/%D8%B1%D9%8A%D8%A7%D8%B6+%D9%88+%D9%85%D8%AF%D8%A7%D8%B1%D8%B3+%D8%A7%D9%84%D8%AC%D8%A7%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%B3%D9%88%D8%AF%D8%A7%D9%86%D9%8A%D8%A9+%D8%A8%D8%A7%D9%84%D8%B9%D8%AC%D9%85%D9%8A%E2%80%AD/@31.1750866,30.1865355,10z/data=!4m10!1m2!2m1!1z2YXYr9ix2LPYqSDYp9mE2KzYp9mE2YrYqSDYp9mE2LPZiNiv2KfZhtmK2Kkg2KjYp9mE2LnYrNmF2Yo!3m6!1s0x14f5952d1a4c54c9:0xad97ac6ea85a1ea2!8m2!3d31.0910317!4d29.7291169!15sCjvZhdiv2LHYs9ipINin2YTYrNin2YTZitipINin2YTYs9mI2K_Yp9mG2YrYqSDYqNin2YTYudis2YXZipIBDHNjaG9vbF9ob3VzZeABAA!16s%2Fg%2F11ntmmvs6f?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D put=embed"
+              src="https://share.google/jkdWQCWOFU36mqViF"
               width="100%"
               height="380"
               style={{ border: 0 }}
